@@ -1,7 +1,7 @@
 # random-python
 ------------------------------------------------------------
 
-A simple script for random in python
+A simple script for randomness in python
 ------------------------------------------------------------
 
 I will try update my script frequently
